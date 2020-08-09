@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+}
+.bg {
+    /* The image used */
+    background-image: url("/img/av.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.centerize{
+    padding-top: 150px;
+}
+.card { background-color: rgba(245, 245, 245, 0.6); }
+
+
